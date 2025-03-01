@@ -1,1 +1,1 @@
-# My Discord Mod Bot
+# Basic Discord Mod Bot 
